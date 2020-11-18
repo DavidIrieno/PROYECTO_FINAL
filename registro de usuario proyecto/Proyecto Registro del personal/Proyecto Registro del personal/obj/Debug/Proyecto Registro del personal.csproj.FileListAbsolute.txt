@@ -1,0 +1,27 @@
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto Registro del personal.csprojAssemblyReference.cache
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto Registro del personal.exe.config
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto_Registro_del_personal.Form1.resources
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto_Registro_del_personal.Form2.resources
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto_Registro_del_personal.Form3.resources
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto_Registro_del_personal.Properties.Resources.resources
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto Registro del personal.csproj.GenerateResource.cache
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto Registro del personal.csproj.CoreCompileInputs.cache
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\Proyecto Registro del personal.exe.config
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\Proyecto Registro del personal.exe
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\Proyecto Registro del personal.pdb
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\MySql.Data.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\Google.Protobuf.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\Zstandard.Net.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\Renci.SshNet.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\System.Buffers.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\System.Memory.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\bin\Debug\MySql.Data.xml
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto Registro del personal.csproj.CopyComplete
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto Registro del personal.exe
+C:\Users\ldavi\OneDrive\Documentos\GitHub\Proyecto\registro de usuario proyecto\Proyecto Registro del personal\Proyecto Registro del personal\obj\Debug\Proyecto Registro del personal.pdb
